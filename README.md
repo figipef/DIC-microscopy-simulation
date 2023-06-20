@@ -10,12 +10,18 @@ You'll need an MTF file, to be read by the leitorfile.py (please use a simple 2 
 ### 2º
 Change pygame event code "press s" If you'de like to see the FT, and FT * MTF, of the OPD image 
 
-    --Instructions--
+--Instructions--
+    
 "+" - Darken the pencil (Aumentar o OPD)
+
 "-" - Whiten the pencil (Diminuir o OPD)
+
 "t" - Decrease the wave lenght
+
 "y" - Increase the wave length
+
 "u" - Decrease pencil radius
+
 "i" - Increase pencil radius
 
 ### 3º
