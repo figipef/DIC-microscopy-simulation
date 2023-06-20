@@ -11,7 +11,7 @@ matplotlib;
 
 PIL;
 
-pygame~;
+pygame;
 
 scipy.
 ### 1º
