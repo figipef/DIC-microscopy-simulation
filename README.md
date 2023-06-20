@@ -3,8 +3,17 @@ A simple program used to simulate how a DIC microscope would visualize an object
 ## How to use
 
 ### 0º
-Please install the following python libraries
-numpy; matplotlib; PIL, pygame, scipy.
+Please install the following python libraries:
+
+numpy;
+
+matplotlib; 
+
+PIL;
+
+pygame~;
+
+scipy.
 ### 1º
 You'll need an MTF file, to be read by the leitorfile.py (please use a simple 2 columns approach). If you don't use an MTF, comment the appropriate part of the code out
 ### 2º
